@@ -7,8 +7,9 @@
           • Le Design Pattern permet d'isoler les algorithmes propres à chaque état 
           d'un objet.
 
-
-![image](https://github.com/2002marie03/StatePattern/assets/95045123/9bf145e2-5ea7-4765-8edb-e3874934c97d)
+<p align="center">
+  <img src="screenshots/51e22eb1-d906-494a-9d2a-9bce06296a54.png" alt="Image1">
+</p>
 
 # Gestion des États d'un Avion
 
@@ -24,5 +25,9 @@ Ce projet met en œuvre le pattern State pour modéliser les différents états 
 
 ## Exécution
 
-![image](https://github.com/2002marie03/StatePattern/assets/95045123/51e22eb1-d906-494a-9d2a-9bce06296a54)
+
+
+<p align="center">
+  <img src="screenshots/autre_image.png" alt="Image2">
+</p>
 
